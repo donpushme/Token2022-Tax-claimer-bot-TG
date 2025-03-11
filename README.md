@@ -7,5 +7,5 @@ This is the Telegram Bot to claim the transfer fee of TOKEN2022 on Solana
 - https://solscan.io/tx/5QzM9SLAQ7GZ1C68HVfJbYySSE8xTwLvJqWHCKiCxSZJNfmfYtRkRdhWUojNoobBHjGXJkp9eY5KqqmV6PcfoHV3
 
 ## How to contact
-Telegram: [@midaBricoll](https://github.com/donpushme)
-       X: [@dieharye](https://x.com/dieharye)
+- Telegram: [@midaBricoll](https://t.me/midaBricoll)
+- X: [@dieharye](https://x.com/dieharye)
